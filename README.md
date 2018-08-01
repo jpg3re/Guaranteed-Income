@@ -13,6 +13,7 @@
 
 #### My contributions:
 * Built majority of the back-end using C# with .NET framework
+* The contents of the Model and Controllers folder were primarily handled by me
 
 
 #### Basic structure:
