@@ -1,6 +1,6 @@
 # Tax Planning
 
-> This web application compares annuity options and shows performance projections for various annuities with various riders based on market scenarios generated with a basic Monte Carlo method. It was built for the [PIEtech, Inc](https://www.moneyguidepro.com/ifa/). internship in summer 2018, as the second of three projects. It was built by a team of five interns: two business/technical analysts, two back-end developers, and a front-end developer.
+> This web application compares annuity options and shows performance projections for various annuities with various riders based on market scenarios generated with a basic Monte Carlo method. It was built for the [PIEtech, Inc](https://www.moneyguidepro.com/ifa/). internship in summer 2018, as the second of three projects. It was built by a team of five interns: two business/technical analysts, two back-end developers, and a front-end developer. This was a two week project.
 
 ---
 
